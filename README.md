@@ -31,4 +31,4 @@ As an upcoming Data Scientist, I focused on Data Science Salaries using the Kagg
 - Specializations that are related to Data Engineering & Science lead to a higher salary than Analysts, pointing out the increasing demand of the market.
 - A seniority level is needed even though talents attract higher salaries, neglecting work experience. 
   
-All the insights that came from this dataset are listed in the Notebook and through some slides from our presentation below.
+All the insights that came from this dataset are listed in the Notebook.
