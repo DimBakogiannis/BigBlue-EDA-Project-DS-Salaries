@@ -19,7 +19,7 @@ As an upcoming Data Scientist, I focused on Data Science Salaries using the Kagg
 
 
 
-### Results📊📈🕵🏻:
+### Results📊🕵🏻:
 - Most common data entries concern Medium-sized companies, Senior Level Employees, Full-time
 - As a result of the 2020-2022 pandemic, there was a surge in the prevalence of remote working. However, this trend began to decline in 2023. Smaller-scale companies tend to adopt remote working practices more frequently.
 - Pandemic also, accelerated the boom in data-related roles as salaries increased every year (from 2020 to 2023)
