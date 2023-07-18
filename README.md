@@ -19,14 +19,14 @@ As an upcoming Data Scientist, I focused on Data Science Salaries using the Kagg
 
 
 
-### Results:
+### Results📊📈🕵🏻:
 - Most common data entries concern Medium-sized companies, Senior Level Employees, Full-time
 - As a result of the 2020-2022 pandemic, there was a surge in the prevalence of remote working. However, this trend began to decline in 2023. Smaller-scale companies tend to adopt remote working practices more frequently.
 - Pandemic also, accelerated the boom in data-related roles as salaries increased every year (from 2020 to 2023)
 - Data Engineering & Data Science related roles are the most common and profitable 
 - The significant number of outliers might be attributed to individuals who are delivering outstanding performances and therefore earning more than their counterparts. This insight indicates the existence of high achievers each year, resulting in elevated salary figures.
 
-### Conclusion:
+### Conclusion✅🏁:
 - Israel & USA seems the most prominent for those pursuing top-tier compensation in Data Science (Home to some of the world's leading tech hubs). Living and working in these countries can boost your career.
 - Specializations that are related to Data Engineering & Science lead to a higher salary than Analysts, pointing out the increasing demand of the market.
 - A seniority level is needed even though talents attract higher salaries, neglecting work experience. 
